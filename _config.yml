@@ -9,6 +9,4 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/bhasling/demo_page"
 
 include:
-  - .htaccess
   - _pages
-  - files
