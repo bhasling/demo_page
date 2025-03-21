@@ -1,5 +1,5 @@
 locale                   : "en-US"
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/architect
 title                    : "Bill Hasling / Research Software Engineer"
 title_separator          : "-"
 name                     : &name "Bill Hasling"
