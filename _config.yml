@@ -1,4 +1,5 @@
 locale                   : "en-US"
+remote_theme: jekyll/minima
 title                    : "Bill Hasling / Research Software Engineer"
 title_separator          : "-"
 name                     : &name "Bill Hasling"
