@@ -1,5 +1,5 @@
 locale                   : "en-US"
-remote_theme: pages-themes/architect
+remote_theme: pages-themes/time-machine@v0.2.0
 title                    : "Bill Hasling / Research Software Engineer"
 title_separator          : "-"
 name                     : &name "Bill Hasling"
@@ -7,3 +7,8 @@ description              : &description "personal description"
 url                      : hhttps://github.com/bhasling/demo_page # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/bhasling/demo_page"
+
+include:
+  - .htaccess
+  - _pages
+  - files
