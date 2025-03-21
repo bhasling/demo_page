@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 # Bill Hasling
-This is the about .md page with cayman.
+This is the about .md page with default theme.

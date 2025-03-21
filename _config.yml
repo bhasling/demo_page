@@ -1,5 +1,4 @@
 locale                   : "en-US"
-remote_theme: pages-themes/cayman
 title                    : "Bill Hasling / Research Software Engineer"
 title_separator          : "-"
 name                     : &name "Bill Hasling"
@@ -17,6 +16,6 @@ author:
   employer         : "Princeton University"
   uri              : # URL
   email            : "bhasling@gmail.com" 
-  
+
 include:
   - _pages
