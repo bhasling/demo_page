@@ -8,5 +8,15 @@ url                      : hhttps://github.com/bhasling/demo_page # the base hos
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/bhasling/demo_page"
 
+author:
+  # Biographic information
+  avatar           : "BillPhoto.jpg"
+  name             : "Bill Hasling"
+  bio              : "Research Software Engineer"
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
+  uri              : # URL
+  email            : "bhasling@gmail.com" 
+  
 include:
   - _pages
